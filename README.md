@@ -10,7 +10,7 @@ In this project you will build such a pipeline.
 
 ## W&B PROJECT LINK:
 
-https://wandb.ai/wgu2/nyc_airbnb?nw=nwuserlopezjasmine61
+https://wandb.ai/wgu2/nyc_airbnb/workspace?nw=nwuserlopezjasmine61
 
 ## MY REPOSITORY:
 
