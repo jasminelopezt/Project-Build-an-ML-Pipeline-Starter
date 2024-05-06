@@ -12,6 +12,10 @@ In this project you will build such a pipeline.
 
 https://wandb.ai/wgu2/nyc_airbnb?nw=nwuserlopezjasmine61
 
+## MY REPOSITORY:
+
+https://github.com/jasminelopezt/Project-Build-an-ML-Pipeline-Starter
+
 ## Table of contents
 
 - [Preliminary steps](#preliminary-steps)
